@@ -1,0 +1,36 @@
+
+/* Class = "IBUINavigationItem"; title = "Inscription"; ObjectID = "8EE-pC-Udd"; */
+"8EE-pC-Udd.title" = "Inscription";
+
+/* Class = "IBUIButton"; normalTitle = "S'incrire"; ObjectID = "J6v-kd-OaS"; */
+"J6v-kd-OaS.normalTitle" = "S'incrire";
+
+/* Class = "IBUITextField"; placeholder = "Nom"; ObjectID = "NNt-rB-L8W"; */
+"NNt-rB-L8W.placeholder" = "Nom";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "QNd-wq-uNR"; */
+"QNd-wq-uNR.placeholder" = "Email";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "TEx-Wy-INk"; */
+"TEx-Wy-INk.placeholder" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Se connecter"; ObjectID = "VKm-gh-Je0"; */
+"VKm-gh-Je0.normalTitle" = "Se connecter";
+
+/* Class = "IBUIButton"; normalTitle = "S'inscrire"; ObjectID = "XF1-td-me5"; */
+"XF1-td-me5.normalTitle" = "S'inscrire";
+
+/* Class = "IBUITextField"; placeholder = "Prénom"; ObjectID = "gVF-4q-kyV"; */
+"gVF-4q-kyV.placeholder" = "Prénom";
+
+/* Class = "IBUITextField"; placeholder = "Mot de passe"; ObjectID = "mIT-TM-gcz"; */
+"mIT-TM-gcz.placeholder" = "Mot de passe";
+
+/* Class = "IBUITextField"; placeholder = "Confirmation du mot de passe"; ObjectID = "mvv-mE-Xh0"; */
+"mvv-mE-Xh0.placeholder" = "Confirmation du mot de passe";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "vTV-O7-du1"; */
+"vTV-O7-du1.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Vous n'avez pas de compte ?"; ObjectID = "wRy-Aw-r14"; */
+"wRy-Aw-r14.text" = "Vous n'avez pas de compte ?";
